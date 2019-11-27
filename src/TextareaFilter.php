@@ -2,6 +2,7 @@
 
 namespace PosLifestyle\TextareaFilter;
 
+use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Http\Request;
 use Laravel\Nova\Filters\Filter;
 
